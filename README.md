@@ -7,4 +7,4 @@ The following list contains used control keys:
 * *q*      - quit the game
 * *p*      - pause the game
 
-
+## The main implementation of the game is in seft_implemented_tetris.py
