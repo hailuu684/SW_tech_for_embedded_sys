@@ -1,5 +1,5 @@
 ## Control
-
+The final file is self_implemented_tetris
 The following list contains used control keys:
 
 * *Arrows* - used for the moving of a tetris block
